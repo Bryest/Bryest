@@ -7,7 +7,6 @@
 - 🎮 I co-developed GuardianVR with a colleague, a VR game promoting prosocial behavior through psychological models.
 - 🤝 I’m looking to collaborate on **web applications**, **game development**, and **multidisciplinary projects**.
 - 💡 Ask me about **React.js, Unity, VR Development, Full-Stack Web Development, Cloud Computing**.
-- 🔗 Check out my projects at [https://github.com/Bryest](https://github.com/Bryest)
 - 📝 Learn more about me on [LinkedIn](https://www.linkedin.com/in/renato-castillo-a294a915a/)
 
 <h3 align="left">Languages and Tools:</h3>
